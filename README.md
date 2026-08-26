@@ -158,6 +158,5 @@ This project demonstrates the use of:
 
 ## Author
 
-Tiwa
+Tiwa Shadare
 
-Master's Student — Computer Information Systems and Business Analysis
