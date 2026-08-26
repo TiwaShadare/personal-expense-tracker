@@ -1,0 +1,6 @@
+Sample Expenses
+
+Groceries - $85.50 - Food
+Gas - $45.00 - Transportation
+Netflix - $15.99 - Entertainment
+Coffee - $6.50 - Food
